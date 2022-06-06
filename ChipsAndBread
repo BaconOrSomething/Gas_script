@@ -1,0 +1,27 @@
+for g = -27.06, -22, 0.51 do
+local ohString1 = "PlaceProduct"
+local ohString2 = "Chips"
+local ohCFrame3 = CFrame.new(g, 5.197447324, -27.656, 0, 0, 1, 0, 1, -0, -1, 0, 0)
+
+game:GetService("ReplicatedStorage").Remote:FireServer(ohString1, ohString2, ohCFrame3, true)
+end
+
+
+
+
+for u = -19.63, -26, -1.11 do
+local ohString1 = "PlaceProduct"
+local ohString2 = "Whole Bread"
+local ohCFrame3 = CFrame.new(-28.75, 5.197447324, u, 0, 0, 1, 0, 1, -0, -1, 0, 0)
+
+game:GetService("ReplicatedStorage").Remote:FireServer(ohString1, ohString2, ohCFrame3, true)
+end
+
+
+for u = -19.63, -26, -1.11 do
+local ohString1 = "PlaceProduct"
+local ohString2 = "Whole Bread"
+local ohCFrame3 = CFrame.new(-28.75, 3, u, 0, 0, 1, 0, 1, -0, -1, 0, 0)
+
+game:GetService("ReplicatedStorage").Remote:FireServer(ohString1, ohString2, ohCFrame3, true)
+end

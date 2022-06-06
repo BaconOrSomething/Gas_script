@@ -1,3 +1,4 @@
+
 local ohString1 = "PlaceProduct"
 local ohString2 = "Cheese"
 local ohCFrame3 = CFrame.new(-28.15,4.63, -3.15, 1, 0,0 , 0, 1, 0, 0, 0,1)
@@ -101,154 +102,154 @@ local ohString1 = "PlaceProduct"
 local ohString2 = "Generic Cookies"
 local ohCFrame3 = CFrame.new(-26.4963341, 2.99744725, -28.1449947, -1, 0, -8.74227766e-08, 0, 1, 0, 8.74227766e-08, 0, -1)
 
-game:GetService("ReplicatedStorage").Remote:FireServer(ohString1, ohString2, ohCFrame3)
+game:GetService("ReplicatedStorage").Remote:FireServer(ohString1, ohString2, ohCFrame3, true)
 
 local ohString1 = "PlaceProduct"
 local ohString2 = "Generic Cookies"
 local ohCFrame3 = CFrame.new(-26.4963341, 2.99744725, -27.6739502, -1, 0, -8.74227766e-08, 0, 1, 0, 8.74227766e-08, 0, -1)
 
-game:GetService("ReplicatedStorage").Remote:FireServer(ohString1, ohString2, ohCFrame3)
+game:GetService("ReplicatedStorage").Remote:FireServer(ohString1, ohString2, ohCFrame3, true)
 
 local ohString1 = "PlaceProduct"
 local ohString2 = "Generic Cookies"
 local ohCFrame3 = CFrame.new(-26.4963341, 2.99744725, -27.2029037, -1, 0, -8.74227766e-08, 0, 1, 0, 8.74227766e-08, 0, -1)
 
-game:GetService("ReplicatedStorage").Remote:FireServer(ohString1, ohString2, ohCFrame3)
+game:GetService("ReplicatedStorage").Remote:FireServer(ohString1, ohString2, ohCFrame3, true)
 
 local ohString1 = "PlaceProduct"
 local ohString2 = "Generic Cookies"
 local ohCFrame3 = CFrame.new(-26.4963341, 2.99340677, -26.7318573, -1, 0, -8.74227766e-08, 0, 1, 0, 8.74227766e-08, 0, -1)
 
-game:GetService("ReplicatedStorage").Remote:FireServer(ohString1, ohString2, ohCFrame3)
+game:GetService("ReplicatedStorage").Remote:FireServer(ohString1, ohString2, ohCFrame3, true)
 
 local ohString1 = "PlaceProduct"
 local ohString2 = "Generic Cookies"
 local ohCFrame3 = CFrame.new(-24.7299118, 2.99744725, -28.1449947, -1, 0, -8.74227766e-08, 0, 1, 0, 8.74227766e-08, 0, -1)
 
-game:GetService("ReplicatedStorage").Remote:FireServer(ohString1, ohString2, ohCFrame3)
+game:GetService("ReplicatedStorage").Remote:FireServer(ohString1, ohString2, ohCFrame3, true)
 
 local ohString1 = "PlaceProduct"
 local ohString2 = "Generic Cookies"
 local ohCFrame3 = CFrame.new(-24.7299118, 2.99744725, -27.6739502, 1, 0, 0, 0, 1, 0, 0, 0, 1)
 
-game:GetService("ReplicatedStorage").Remote:FireServer(ohString1, ohString2, ohCFrame3)
+game:GetService("ReplicatedStorage").Remote:FireServer(ohString1, ohString2, ohCFrame3, true)
 
 local ohString1 = "PlaceProduct"
 local ohString2 = "Generic Cookies"
 local ohCFrame3 = CFrame.new(-24.7299118, 2.99744725, -27.2029037, 1, 0, 0, 0, 1, 0, 0, 0, 1)
 
-game:GetService("ReplicatedStorage").Remote:FireServer(ohString1, ohString2, ohCFrame3)
+game:GetService("ReplicatedStorage").Remote:FireServer(ohString1, ohString2, ohCFrame3, true)
 
 local ohString1 = "PlaceProduct"
 local ohString2 = "Generic Cookies"
 local ohCFrame3 = CFrame.new(-24.7299118, 2.99744725, -26.7318573, 1, 0, 0, 0, 1, 0, 0, 0, 1)
 
-game:GetService("ReplicatedStorage").Remote:FireServer(ohString1, ohString2, ohCFrame3)
+game:GetService("ReplicatedStorage").Remote:FireServer(ohString1, ohString2, ohCFrame3, true)
 
 local ohString1 = "PlaceProduct"
 local ohString2 = "Generic Cookies"
 local ohCFrame3 = CFrame.new(-23.6700592, 2.99744725, -27.438427, -4.37113883e-08, 0, 1, 0, 1, 0, -1, 0, -4.37113883e-08)
 
-game:GetService("ReplicatedStorage").Remote:FireServer(ohString1, ohString2, ohCFrame3)
+game:GetService("ReplicatedStorage").Remote:FireServer(ohString1, ohString2, ohCFrame3, true)
 
 local ohString1 = "PlaceProduct"
 local ohString2 = "Generic Cookies"
 local ohCFrame3 = CFrame.new(-23.1990128, 2.99744725, -27.438427, -4.37113883e-08, 0, 1, 0, 1, 0, -1, 0, -4.37113883e-08)
 
-game:GetService("ReplicatedStorage").Remote:FireServer(ohString1, ohString2, ohCFrame3)
+game:GetService("ReplicatedStorage").Remote:FireServer(ohString1, ohString2, ohCFrame3, true)
 
 local ohString1 = "PlaceProduct"
 local ohString2 = "Generic Soda"
 local ohCFrame3 = CFrame.new(-29.0124989, 2.53234053, -1.92499995, 1, 0, 0, 0, 1, 0, 0, 0, 1)
 
-game:GetService("ReplicatedStorage").Remote:FireServer(ohString1, ohString2, ohCFrame3)
+game:GetService("ReplicatedStorage").Remote:FireServer(ohString1, ohString2, ohCFrame3, true)
 
 local ohString1 = "PlaceProduct"
 local ohString2 = "Generic Soda"
 local ohCFrame3 = CFrame.new(-29.0124989, 2.53234053, -2.4749999, 1, 0, 0, 0, 1, 0, 0, 0, 1)
 
-game:GetService("ReplicatedStorage").Remote:FireServer(ohString1, ohString2, ohCFrame3)
+game:GetService("ReplicatedStorage").Remote:FireServer(ohString1, ohString2, ohCFrame3, true)
 
 local ohString1 = "PlaceProduct"
 local ohString2 = "Generic Soda"
 local ohCFrame3 = CFrame.new(-29.0124989, 2.53234053, -3.02499986, 1, 0, 0, 0, 1, 0, 0, 0, 1)
 
-game:GetService("ReplicatedStorage").Remote:FireServer(ohString1, ohString2, ohCFrame3)
+game:GetService("ReplicatedStorage").Remote:FireServer(ohString1, ohString2, ohCFrame3, true)
 
 local ohString1 = "PlaceProduct"
 local ohString2 = "Generic Soda"
 local ohCFrame3 = CFrame.new(-29.0124989, 2.53234053, -3.57500005, 1, 0, 0, 0, 1, 0, 0, 0, 1)
 
-game:GetService("ReplicatedStorage").Remote:FireServer(ohString1, ohString2, ohCFrame3)
+game:GetService("ReplicatedStorage").Remote:FireServer(ohString1, ohString2, ohCFrame3, true)
 
 local ohString1 = "PlaceProduct"
 local ohString2 = "Generic Soda"
 local ohCFrame3 = CFrame.new(-28.4624996, 2.53234053, -1.92499995, 1, 0, 0, 0, 1, 0, 0, 0, 1)
 
-game:GetService("ReplicatedStorage").Remote:FireServer(ohString1, ohString2, ohCFrame3)
+game:GetService("ReplicatedStorage").Remote:FireServer(ohString1, ohString2, ohCFrame3, true)
 
 local ohString1 = "PlaceProduct"
 local ohString2 = "Water"
 local ohCFrame3 = CFrame.new(-28.4624996, 2.53234053, -2.4749999, 1, 0, 0, 0, 1, 0, 0, 0, 1)
 
-game:GetService("ReplicatedStorage").Remote:FireServer(ohString1, ohString2, ohCFrame3)
+game:GetService("ReplicatedStorage").Remote:FireServer(ohString1, ohString2, ohCFrame3, true)
 
 local ohString1 = "PlaceProduct"
 local ohString2 = "Water"
 local ohCFrame3 = CFrame.new(-28.4624996, 2.53234053, -3.02499986, 1, 0, 0, 0, 1, 0, 0, 0, 1)
 
-game:GetService("ReplicatedStorage").Remote:FireServer(ohString1, ohString2, ohCFrame3)
+game:GetService("ReplicatedStorage").Remote:FireServer(ohString1, ohString2, ohCFrame3, true)
 
 local ohString1 = "PlaceProduct"
 local ohString2 = "Water"
 local ohCFrame3 = CFrame.new(-28.4624996, 2.53234053, -3.57500005, 1, 0, 0, 0, 1, 0, 0, 0, 1)
 
-game:GetService("ReplicatedStorage").Remote:FireServer(ohString1, ohString2, ohCFrame3)
+game:GetService("ReplicatedStorage").Remote:FireServer(ohString1, ohString2, ohCFrame3, true)
 
 local ohString1 = "PlaceProduct"
 local ohString2 = "Water"
 local ohCFrame3 = CFrame.new(-27.9125004, 2.53234053, -2.4749999, 1, 0, 0, 0, 1, 0, 0, 0, 1)
 
-game:GetService("ReplicatedStorage").Remote:FireServer(ohString1, ohString2, ohCFrame3)
+game:GetService("ReplicatedStorage").Remote:FireServer(ohString1, ohString2, ohCFrame3, true)
 
 local ohString1 = "PlaceProduct"
 local ohString2 = "Water"
 local ohCFrame3 = CFrame.new(-27.9125004, 2.53234053, -3.02499986, 1, 0, 0, 0, 1, 0, 0, 0, 1)
 
-game:GetService("ReplicatedStorage").Remote:FireServer(ohString1, ohString2, ohCFrame3)
+game:GetService("ReplicatedStorage").Remote:FireServer(ohString1, ohString2, ohCFrame3, true)
 
 local ohString1 = "PlaceProduct"
 local ohString2 = "Milk"
 local ohCFrame3 = CFrame.new(-29.0875015, 0.532341719, -1.95000005, 1, 0, 0, 0, 1, 0, 0, 0, 1)
 
-game:GetService("ReplicatedStorage").Remote:FireServer(ohString1, ohString2, ohCFrame3)
+game:GetService("ReplicatedStorage").Remote:FireServer(ohString1, ohString2, ohCFrame3, true)
 
 local ohString1 = "PlaceProduct"
 local ohString2 = "Milk"
 local ohCFrame3 = CFrame.new(-29.0875015, 0.532341719, -2.60000014, 1, 0, 0, 0, 1, 0, 0, 0, 1)
 
-game:GetService("ReplicatedStorage").Remote:FireServer(ohString1, ohString2, ohCFrame3)
+game:GetService("ReplicatedStorage").Remote:FireServer(ohString1, ohString2, ohCFrame3, true)
 
 local ohString1 = "PlaceProduct"
 local ohString2 = "Milk"
 local ohCFrame3 = CFrame.new(-29.0875015, 0.532341719, -3.25, 1, 0, 0, 0, 1, 0, 0, 0, 1)
 
-game:GetService("ReplicatedStorage").Remote:FireServer(ohString1, ohString2, ohCFrame3)
+game:GetService("ReplicatedStorage").Remote:FireServer(ohString1, ohString2, ohCFrame3, true)
 
 local ohString1 = "PlaceProduct"
 local ohString2 = "Milk"
 local ohCFrame3 = CFrame.new(-28.4375, 0.532341719, -1.95000005, 1, 0, 0, 0, 1, 0, 0, 0, 1)
 
-game:GetService("ReplicatedStorage").Remote:FireServer(ohString1, ohString2, ohCFrame3)
+game:GetService("ReplicatedStorage").Remote:FireServer(ohString1, ohString2, ohCFrame3, true)
 
 local ohString1 = "PlaceProduct"
 local ohString2 = "Milk"
 local ohCFrame3 = CFrame.new(-28.4375, 0.532341719, -2.60000014, 1, 0, 0, 0, 1, 0, 0, 0, 1)
 
-game:GetService("ReplicatedStorage").Remote:FireServer(ohString1, ohString2, ohCFrame3)
+game:GetService("ReplicatedStorage").Remote:FireServer(ohString1, ohString2, ohCFrame3, true)
 
 local ohString1 = "PlaceProduct"
 local ohString2 = "Milk"
 local ohCFrame3 = CFrame.new(-28.4375, 0.532341719, -3.25, 1, 0, 0, 0, 1, 0, 0, 0, 1)
 
-game:GetService("ReplicatedStorage").Remote:FireServer(ohString1, ohString2, ohCFrame3)
+game:GetService("ReplicatedStorage").Remote:FireServer(ohString1, ohString2, ohCFrame3, true)

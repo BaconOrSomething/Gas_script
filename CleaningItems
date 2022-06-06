@@ -1,0 +1,42 @@
+for h = -29.5, -27.8, 0.35 do
+local ohString1 = "PlaceProduct"
+local ohString2 = "Washing Powder"
+local ohCFrame3 = CFrame.new(h, 2.997, -14.8, 0, 0, 1, 0, 1, 0, -1, 0, 1)
+
+game:GetService("ReplicatedStorage").Remote:FireServer(ohString1, ohString2, ohCFrame3, true)
+end
+
+
+for h = -29.5, -27.8, 0.35 do
+local ohString1 = "PlaceProduct"
+local ohString2 = "Washing Powder"
+local ohCFrame3 = CFrame.new(h, 2.997, -13.3, 0, 0, 1, 0, 1, 0, -1, 0, 1)
+
+game:GetService("ReplicatedStorage").Remote:FireServer(ohString1, ohString2, ohCFrame3, true)
+end
+
+
+for e = -29.6, -28, 0.3 do
+local ohString1 = "PlaceProduct"
+local ohString2 = "All Around Cleaner"
+local ohCFrame3 = CFrame.new(e, 5.197447324, -13.1, 1, 0, 0, 0, 1, 0, 0, 0, 1)
+
+game:GetService("ReplicatedStorage").Remote:FireServer(ohString1, ohString2, ohCFrame3, true)
+end
+
+
+for e = -29.6, -28, 0.3 do
+local ohString1 = "PlaceProduct"
+local ohString2 = "All Around Cleaner"
+local ohCFrame3 = CFrame.new(e, 5.197447324, -14.27, 1, 0, 0, 0, 1, 0, 0, 0, 1)
+
+game:GetService("ReplicatedStorage").Remote:FireServer(ohString1, ohString2, ohCFrame3, true)
+end
+
+for e = -29.6, -28, 0.3 do
+local ohString1 = "PlaceProduct"
+local ohString2 = "All Around Cleaner"
+local ohCFrame3 = CFrame.new(e, 5.197447324, -15.43, 1, 0, 0, 0, 1, 0, 0, 0, 1)
+
+game:GetService("ReplicatedStorage").Remote:FireServer(ohString1, ohString2, ohCFrame3, true)
+end
